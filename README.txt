@@ -1,0 +1,1 @@
+Details can be found inside each phase's folder
